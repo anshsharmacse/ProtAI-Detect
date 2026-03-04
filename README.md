@@ -158,7 +158,7 @@ MIT License - feel free to use for research and commercial purposes.
 
 **Ansh Sharma**
 - AI/ML Research
-- GitHub: [@yourusername](https://github.com/anshsharmacse)
+- GitHub: [@anshsharmacse](https://github.com/anshsharmacse)
 
 ## Acknowledgments
 
